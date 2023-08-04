@@ -1,4 +1,4 @@
-# Códigos de aula de LTP sobre GitHub
+# AVANTI PALESTRA
 Bem vindos ao repositório da aula de LTP.
 
 ## Sobre a disciplina
